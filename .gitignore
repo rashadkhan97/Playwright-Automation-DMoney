@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment variables (Gmail token)
+.env
+
+# Agent created by the run (generated, holds test passwords)
+/data/agent.json
