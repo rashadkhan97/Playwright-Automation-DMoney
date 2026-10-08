@@ -1,12 +1,9 @@
 # DMoney Portal – Playwright End-to-End Automation
 
-Batch 19 · SDET course · Playwright assignment
-
-End-to-end UI automation of the [DMoney Portal](https://dmoneyportal.roadtocareer.net) written with **Playwright + TypeScript**. One automated journey covers an Agent's whole life: sign up, Admin activation, System deposit, Agent login with email OTP, cash-in to a Customer, password reset, and export of the Self Statement to a CSV file.
+End-to-end UI automation of the [DMoney Portal](https://dmoneyportal.roadtocareer.net) written with **Playwright + TypeScript**. One automated journey covers an Agent's whole life: sign-up, Admin activation, System deposit, Agent login with email OTP, cash-in to a Customer, password reset, and export of the Self Statement to a CSV file.
 
 ## Contents
 
-- [Demo video](#demo-video)
 - [What the automation does](#what-the-automation-does)
 - [Tech stack](#tech-stack)
 - [Project structure](#project-structure)
@@ -20,12 +17,6 @@ End-to-end UI automation of the [DMoney Portal](https://dmoneyportal.roadtocaree
 - [Design notes](#design-notes)
 - [Generated files](#generated-files)
 - [Known limitations](#known-limitations)
-
-## Demo video
-
-> Full run in headed mode (`npx playwright test`).
-
-<!-- TODO: add the video link or embed here after uploading, e.g. [Watch the demo video](https://...) -->
 
 ## What the automation does
 
