@@ -169,12 +169,14 @@ Extra tests where the portal must **reject** the action. They are not tagged `@s
 ## Test results
 
 ### Regression Test Result
+<img width="1315" height="820" alt="regression test 01" src="https://github.com/user-attachments/assets/20c2db16-1c07-4bb8-b6ac-c8dbafd32913" />
+<img width="1290" height="607" alt="regression test 02" src="https://github.com/user-attachments/assets/9db10999-8e9d-4928-984e-38096b66c8af" />
 
-<!-- TODO: add the screenshot, e.g. ![Regression Test Result](screenshots/regression-result.png) -->
 
-### SmokeTest Result
+### Smoke Test Result
+<img width="1306" height="590" alt="smoke test 01" src="https://github.com/user-attachments/assets/877089f1-45a6-4e6b-822d-67d81a6c6924" />
+<img width="1292" height="526" alt="smoke test 02" src="https://github.com/user-attachments/assets/16d24e71-78e6-4a59-b8d2-256cbd5a95b4" />
 
-<!-- TODO: add the screenshot, e.g. ![SmokeTest Result](screenshots/smoke-result.png) -->
 
 ## Design notes
 
