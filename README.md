@@ -170,7 +170,10 @@ Extra tests where the portal must **reject** the action. They are not tagged `@s
 
 ### Full Automation Process 
 
-https://github.com/user-attachments/assets/c00b6ff7-fbef-4e54-a656-e3761e19d898
+
+https://github.com/user-attachments/assets/bb58be91-af7d-44aa-be57-fd3be154350b
+
+
 
 ### Regression Test Result
 <img width="1315" height="820" alt="regression test 01" src="https://github.com/user-attachments/assets/20c2db16-1c07-4bb8-b6ac-c8dbafd32913" />
