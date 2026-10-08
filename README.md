@@ -13,7 +13,7 @@ End-to-end UI automation of the [DMoney Portal](https://dmoneyportal.roadtocaree
 - [Validation coverage (20 required checks)](#validation-coverage-20-required-checks)
 - [Negative test cases](#negative-test-cases)
 - [Smoke suite vs regression suite](#smoke-suite-vs-regression-suite)
-- [Test results](#test-results)
+- [Test Report & Documentation](#Test-Report-&-Documentation)
 - [Design notes](#design-notes)
 - [Generated files](#generated-files)
 - [Known limitations](#known-limitations)
@@ -166,7 +166,11 @@ Extra tests where the portal must **reject** the action. They are not tagged `@s
 - **Regression suite:** every test, `npx playwright test` → **13 tests** (9 positive + 4 negative).
 - **Smoke suite:** only the **positive** tests, tagged `@smoke` through `SUITES.smoke` in `utils/suits.ts`, run with `npx playwright test --grep "@smoke"` → **9 tests**.
 
-## Test results
+## Test Report & Documentation
+
+### Full Automation Process 
+
+https://github.com/user-attachments/assets/c00b6ff7-fbef-4e54-a656-e3761e19d898
 
 ### Regression Test Result
 <img width="1315" height="820" alt="regression test 01" src="https://github.com/user-attachments/assets/20c2db16-1c07-4bb8-b6ac-c8dbafd32913" />
